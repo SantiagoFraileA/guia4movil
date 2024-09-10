@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">guia#4</string>
+    <string name="volley_formulario_de_registro">Formulario</string>
+    <string name="ingrese_su_nombre_completo">Nombre</string>
+    <string name="ingrese_su_email">Email</string>
+    <string name="ingrese_su_clave">Clave</string>
+    <string name="click_aqu_para_registrarse">Registrar</string>
+
+</resources>
